@@ -1,0 +1,39 @@
+/* Index.html styles */
+
+body {
+    background-color: #eeeeee;
+}
+
+
+#firstcontainer {
+    background-color: #eeeeee;
+}
+
+/* portfolio page */
+
+img {
+   height: 250px;
+   width: 250px;
+   padding-bottom: 25px;
+    
+   border-bottom-right-radius: 20%;
+   align-self: center;
+   margin-left: 40px;
+   
+}
+
+#stylerow {
+    padding-top: 20px;
+}
+h1  {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+
+
+
+    #index {
+    padding-bottom: 25px;
+}
