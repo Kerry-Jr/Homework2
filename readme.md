@@ -1,13 +1,40 @@
-HOME WORK 2
-<!-- =----------------------------------------- -->
+
+![Github avatar](https://avatars3.githubusercontent.com/u/59150488?v=4)
+
+## Username
+## Kerry-Jr
+# Title
+#### Portfolio Update 1 and 2
+# Table of contents:
+1. Description
+1. Installation
+1. Usage
+1. Test
+1. Contributors
+##### Description
+1.)Updated portfolio page to include homeworks and github account.
+##### Installation
+2.)Click the links and follow readme
+##### Usage
+3.)UCB BOOTCAMP PORTFOLIO PAGE
+##### Test
+4.)Click link and follow instructions
+##### Contributors
+5.)Kerry Smith
+##### Licenses
+6.)No license
+##### Email
+7.)[My Email. Please click me to send a message](mailto:kerrysfs@gmail.com)
+
+![Image of Kerry's App](./assets/image/readmeapp.gif)
 
 
-Setup three pages that are responsive fOR desktop computers and mobile devices.
+[Github repo link](https://github.com/Kerry-Jr "Your github repo")
+  
 
-Made site available for screen readers. From adding alt names to images and using semantic tags on page elements. 
+  
+ 
+  
 
-Used bootstrap 4 on this project. Used lorempixel and upsplash for images.  Made the nav bar "sticky" so it stays at the top of the page as you scroll.  In the nav bar when you shrink it down to mobile the hamburger icon will appear in the nav bar and the links work both expanded and collapsed.  
+  
 
-Still having issues with getting the form to format correctly when it hits the medium setting.
-
-Matched the background color from the pictures provided with the Microsoft windows paint color picker.  Used bootstrap blue for the nav and footer of the page.  Lorem ipsum for text.  On contact page the form is not usable and neither are the buttons.
